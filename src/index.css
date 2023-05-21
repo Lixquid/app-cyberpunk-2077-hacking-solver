@@ -1,0 +1,5 @@
+.gridCell {
+    flex: 1 0 0;
+    aspect-ratio: 1 / 1;
+    max-width: 3em;
+}
